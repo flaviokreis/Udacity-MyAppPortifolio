@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="spotify_color">#4CAF50</color>
+    <color name="scores_color">#8BC34A</color>
+    <color name="library_color">#CDDC39</color>
+    <color name="build_color">#FFC107</color>
+    <color name="xyz_color">#FF5722</color>
+    <color name="capstone_color">#F44336</color>
+</resources>
